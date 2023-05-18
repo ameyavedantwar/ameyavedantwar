@@ -1,6 +1,4 @@
 
-ameyavedantwar/readme.md
-
   * 👋 Hi, I’m Ameya Vedantwar
   * 👀 I’m interested in Data Analytics, Machine Learning, Deep Learning.
   * 🌱 I’m currently learning Machine Learning.
